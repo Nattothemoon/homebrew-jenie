@@ -1,6 +1,6 @@
 # Homebrew Tap for Jenie
 
-This is the official Homebrew tap for [jenie](https://github.com/Nattothemoon/my-first-cli), a CLI tool for interacting with Xano backend APIs.
+This is the official Homebrew tap for [jenie](https://github.com/Nattothemoon/jenie-cli), a CLI tool for interacting with Xano backend APIs.
 
 ## Installation
 
